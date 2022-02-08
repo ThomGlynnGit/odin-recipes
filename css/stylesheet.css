@@ -1,0 +1,21 @@
+* {
+    color: purple;
+}
+
+p {
+    color: red;
+}
+
+.nav {
+    color: black;
+}
+
+#home {
+    color: yellowgreen;
+    background-color: #00fff080;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
